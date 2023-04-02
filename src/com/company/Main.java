@@ -43,8 +43,8 @@ zadacha.Hipotenuza(3,3);
  */
 //zad 3
 zad3 zadacha=new zad3();
+        System.out.println();
 zadacha.Random();
-
 
 
     }
